@@ -1,0 +1,12 @@
+ACSST5Y2019CITY:
+	FROM ACS --> advance search --> topic = poverty --> geography = Place
+	Link: https://data.census.gov/cedsci/table?q=poverty%20rate&t=Income%20and%20Poverty&g=0400000US25%24160000&tid=ACSST1Y2019.S1701
+
+	To better understand how Census Bureau defines Geographic Relationships:
+		https://www.census.gov/newsroom/blogs/random-samplings/2014/07/understanding-geographic-relationships-counties-places-tracts-and-more.html
+ 
+
+
+Unemployment_2020:
+	FROM mass.gov --> Municipal Finance Trend Dashboard --> Category 5: Demographics --> Unemployment Rate --> select 2020
+	Link: https://dlsgateway.dor.state.ma.us/reports/rdPage.aspx?rdReport=dashboard.category_5

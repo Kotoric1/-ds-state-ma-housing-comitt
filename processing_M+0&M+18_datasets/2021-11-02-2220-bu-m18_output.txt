@@ -1,0 +1,1287 @@
+
+Residential summary process: Outcomes Report
+
+This report examines cases filed at least one year before reading, for which outcomes were largely known.
+
+Earliest Case:   2019-04-01
+Latest Case:     2020-04-17
+Total Cases:          36956
+Total Transfers:        973
+
+--
+High-level take-aways:
+Percentage of landlords for whom attorney is optional: 30.8%
+Of those, percentage pro se:                           56.4%
+
+Most common cause:                      Non-payment
+Least stable municipality/neighborhood:    Florence
+Least stable with 10+ filings:             Florence
+Least stable with 100+ filings:         Springfield
+Least stable county:                      Berkshire
+--
+
+Courts
+(n)                           Count   Percent
+northeast                      5240     14.2%
+eastern                        4917     13.3%
+central                        4721     12.8%
+western                        4539     12.3%
+southeast                      3706     10.0%
+metro_south                    2409      6.5%
+Northeast                       970      2.6%
+Eastern                         844      2.3%
+Central                         838      2.3%
+quincy district                 825      2.2%
+Western                         777      2.1%
+Southeast                       642      1.7%
+chelsea district                504      1.4%
+malden district                 440      1.2%
+Metro South                     439      1.2%
+pittsfield district             372      1.0%
+cambridge district              369      1.0%
+lynn district                   356      1.0%
+somerville district             293      0.8%
+springfield district            249      0.7%
+fall river district             247      0.7%
+barnstable district             181      0.5%
+northern berkshire district     174      0.5%
+lowell district                 167      0.5%
+attleboro district              164      0.4%
+framingham district             140      0.4%
+waltham district                138      0.4%
+bmc east boston                 135      0.4%
+woburn district                 127      0.3%
+brockton district               119      0.3%
+haverhill district              109      0.3%
+bmc west roxbury                103      0.3%
+wrentham district                99      0.3%
+fallmouth district               97      0.3%
+bmc dorchester                   94      0.3%
+holyoke district                 88      0.2%
+orleans district                 87      0.2%
+dedham district                  82      0.2%
+lawrence district                67      0.2%
+newton district                  63      0.2%
+salem district                   60      0.2%
+stoughton district               58      0.2%
+plymouth district                55      0.1%
+chicopee district                51      0.1%
+milford district                 51      0.1%
+peabody district                 51      0.1%
+bmc south boston                 49      0.1%
+palmer district                  49      0.1%
+wareham district                 43      0.1%
+newburyport district             40      0.1%
+new bedford district             39      0.1%
+hingham district                 38      0.1%
+taunton district                 38      0.1%
+brookline district               36      0.1%
+bmc roxbury                      30      0.1%
+gloucester district              30      0.1%
+eastern hampshire district       29      0.1%
+westfield district               29      0.1%
+northampton district             26      0.1%
+ayer district                    25      0.1%
+concord district                 24      0.1%
+orange district                  23      0.1%
+edgartown district               22      0.1%
+greenfield district              20      0.1%
+worcester district               18      0.0%
+southern berkshire district      16      0.0%
+bmc brighton                     14      0.0%
+nantucket district               13      0.0%
+natick district                  13      0.0%
+clinton district                 11      0.0%
+bmc central                       8      0.0%
+ipswich district                  4      0.0%
+uxbridge district                 4      0.0%
+westborough district              4      0.0%
+bmc charlestown                   2      0.0%
+east brookfield district          1      0.0%
+fitchburg district                1      0.0%
+
+
+Party Type
+(n)                Plaintiffs   Defendants
+Corporate Entity        25556          190
+Natural Person          11400        36766
+Total                   36956        36956
+
+
+(%)                Plaintiffs   Defendants
+Corporate Entity        69.2%         0.5%
+Natural Person          30.8%        99.5%
+Total                  100.0%       100.0%
+
+
+Plaintiff Representation
+(n)        Has Attorney   Pro Se   Total
+Required          24883      673   25556
+Optional           4973     6427   11400
+Total             29856     7100   36956
+
+
+(%)        Has Attorney   Pro Se   Total
+Required          67.3%     1.8%   69.2%
+Optional          13.5%    17.4%   30.8%
+Total             80.8%    19.2%  100.0%
+
+
+Defendant Representation
+Note: Limited Assistance Representation should be reflected here. Tenancy preservation or other social services may not be reflected.
+
+(n)        Has Attorney   Pro Se   Total
+Required             34      156     190
+Optional           2214    34552   36766
+Total              2248    34708   36956
+
+
+(%)        Has Attorney   Pro Se   Total
+Required           0.1%     0.4%    0.5%
+Optional           6.0%    93.5%   99.5%
+Total              6.1%    93.9%  100.0%
+
+
+Number of Adults in Households   Count   Percent
+ 0                                1996      5.4%
+ 1                               24404     66.0%
+ 2                                8454     22.9%
+ 3                                1427      3.9%
+ 4                                 439      1.2%
+ 5                                 144      0.4%
+ 6                                  46      0.1%
+ 7                                  24      0.1%
+ 8                                   8      0.0%
+ 9                                   7      0.0%
+10                                   2      0.0%
+11                                   2      0.0%
+12                                   1      0.0%
+15                                   1      0.0%
+17                                   1      0.0%
+Total                            36956    100.0%
+Note: Households may appear with zero adults due to clerical delay entering known defendants, identity protection obscuring known defendants (e.g., 42 USC Sections 13701 through 1404 Violence Against Women Act), or no adult defendants (e.g., abandonment of minors).
+
+
+
+Initiating Action   Count   Percent
+Non-payment         22436     60.7%
+Cause                5798     15.7%
+Unknown/Other        4563     12.3%
+No Fault             3331      9.0%
+Foreclosure           828      2.2%
+
+
+                   Rate per 100,000          
+Municipality              Residents     Count
+Florence                       4641        44
+Mill River                     1851         2
+Woronoco                       1801         2
+Springfield                    1606      2459
+Holyoke                        1459       582
+Indian Orchard                 1439       145
+Pittsfield                     1428       639
+Chestnut Hill                  1413        30
+Fall River                     1412      1255
+North Adams                    1378       189
+New Bedford                    1372      1305
+Gilbertville                   1303        15
+Dorchester                     1238      1139
+Randolph                       1220       392
+Worcester                      1192      2159
+Hyannis                        1185       167
+Turners Falls                  1146        47
+Lowell                         1132      1206
+Fitchburg                      1061       428
+Hyde Park                      1058       354
+Southbridge                    1046       175
+Brockton                       1042       978
+Lawrence                       1029       786
+Thorndike                      1011         7
+Greenfield                      991       173
+Lynn                            959       867
+Framingham                      941       643
+Chicopee                        927       513
+Roxbury                         920       549
+Three Rivers                    918        27
+Revere                          875       453
+West Wareham                    874        19
+East Falmouth                   864        50
+Adams                           860        73
+Chelsea                         855       301
+Haverhill                       847       516
+Gardner                         845       171
+Mattapan                        841       307
+Orange                          841        66
+Charlestown                     839       140
+Salem                           820       339
+Webster                         817       137
+Athol                           802        93
+Ware                            790        78
+Rockland                        771       135
+Marlborough                     690       266
+Braintree                       688       246
+Buzzards Bay                    670        23
+Taunton                         653       365
+Everett                         650       271
+Vineyard Haven                  635        12
+Spencer                         633        74
+Dennis Port                     632        20
+Peabody                         618       317
+West Springfield                612       174
+Whitinsville                    605        42
+Dorchester Center               604       556
+Malden                          600       357
+Stoughton                       600       162
+South Dennis                    597        22
+Norwood                         587       168
+Leominster                      583       238
+Bridgewater                     575       153
+West Yarmouth                   569        30
+Holbrook                        565        61
+Quincy                          561       518
+Whitman                         545        79
+South Boston                    531       179
+Roslindale                      529       153
+Jamaica Plain                   528       198
+Foxborough                      521        88
+Hull                            514        53
+Rowe                            508         2
+Salisbury                       507        42
+Feeding Hills                   497        58
+Westborough                     487        89
+Baldwinville                    475         9
+Beverly                         475       188
+Winchendon                      475        49
+South Yarmouth                  455        53
+Attleborough                    454       198
+Abington                        444        71
+East Boston                     444       180
+Brighton                        439       193
+Milford                         432       121
+Bondsville                      426         8
+Canton                          426        92
+Cambridge                       423       445
+Danvers                         422       112
+Middleborough                   419        97
+Mansfield                       418        97
+Gloucester                      416       120
+Waltham                         415       252
+Palmer                          411        50
+Belchertown                     409        60
+Saugus                          409       109
+Methuen                         408       193
+Becket                          393         7
+Clinton                         389        53
+Allston                         383       112
+Ayer                            377        28
+East Sandwich                   373        13
+Woburn                          372       142
+Tewksbury                       366       106
+Winthrop                        360        63
+Dracut                          353       104
+Wendell                         353         3
+Roxbury Crossing                343       205
+Oxford                          342        47
+Shelburne Falls                 341         6
+Cheshire                        340        11
+Westfield                       340       140
+Somerville                      332       252
+Mashpee                         328        46
+North Andover                   328        93
+Seekonk                         327        45
+Fiskdale                        323        10
+Aquinnah                        321         1
+Huntington                      321         7
+Ashland                         319        53
+Charlemont                      315         4
+Medford                         315       177
+South Easton                    313        32
+East Wareham                    311        68
+Pocasset                        311         9
+Lunenburg                       307        31
+Wheelwright                     305         1
+Sunderland                      298        11
+Leeds                           294         3
+South Deerfield                 293         6
+North Attleborough              289        83
+Marion                          285        14
+Ludlow                          284        60
+North Chatham                   284         2
+Russell                         281         5
+Wareham                         279        61
+North Brookfield                277        13
+Shirley                         277        20
+Amesbury                        276        45
+Sheffield                       276         9
+North Chelmsford                274        25
+Cotuit                          273         9
+Lakeville                       273        29
+North Billerica                 271        29
+Bedford                         270        36
+Fairhaven                       270        43
+West Brookfield                 270        10
+Bellingham                      269        44
+East Taunton                    266        17
+East Weymouth                   266       143
+Plainville                      266        22
+West Warren                     264         3
+Nahant                          263         9
+Buckland                        262         5
+Plymouth                        262       148
+Millbury                        256        34
+Otis                            248         4
+Weymouth                        247       133
+Raynham                         246        33
+Easthampton                     242        39
+Northborough                    240        34
+Great Barrington                239        17
+Cohasset                        238        18
+Franklin                        237        75
+Provincetown                    237         7
+Ipswich                         235        31
+Northampton                     234        67
+Chelmsford                      233        79
+Warren                          233        12
+Newton Center                   231         9
+Cummington                      229         2
+West Dennis                     229         5
+South Hadley                    228        40
+Marstons Mills                  226        11
+Medfield                        224        27
+Wakefield                       224        56
+Tyngsborough                    221        25
+Dudley                          219        25
+Wellfleet                       218         6
+Westwood                        218        32
+Pepperell                       217        25
+Wales                           217         4
+Millis                          215        17
+Hudson                          209        40
+Maynard                         207        21
+Stoneham                        205        44
+Richmond                        203         3
+Dedham                          202        50
+Holland                         201         5
+Jefferson                       200         7
+Southwick                       199        19
+Northfield                      197         6
+Swampscott                      195        27
+Shrewsbury                      190        68
+Norton                          189        36
+Millville                       188         6
+West Townsend                   188         4
+Hopkinton                       187        28
+Marshfield                      187        47
+Melrose                         185        50
+Billerica                       183        74
+Boylston                        183         8
+Amherst                         182        69
+Carver                          182        21
+Kingston                        182        23
+West Boylston                   182        14
+Eastham                         181         9
+Lynnfield                       181        21
+Duxbury                         179        27
+Haydenville                     177         2
+West Barnstable                 177         5
+North Oxford                    176         4
+Watertown                       175        56
+Brewster                        173        17
+Ashfield                        172         3
+Auburn                          172        28
+Edgartown                       172         7
+Hanover                         172        24
+Newburyport                     172        30
+Burlington                      171        42
+E. Boston                       170        69
+Osterville                      170         6
+Walpole                         170        41
+Littleton                       168        15
+Pembroke                        168        30
+North Reading                   167        25
+Erving                          166         3
+Agawam                          165        47
+Boston                          164      1017
+Chatham                         163        10
+Monson                          163        14
+Dalton                          162        11
+Leverett                        162         3
+Petersham                       162         2
+Avon                            160         7
+Granby                          160        10
+West Bridgewater                159        11
+Nantucket                       157        16
+Oakham                          157         3
+Andover                         156        52
+North Dartmouth                 156        37
+South Grafton                   156         7
+Harwich                         155        19
+Manchester                      155         8
+Charlton                        154        20
+Plainfield                      154         1
+Stockbridge                     154         3
+Sturbridge                      151        14
+Bradford                        149        20
+Brookline                       149        88
+Chester                         149         2
+Holden                          149        26
+Truro                           149         3
+Brookfield                      147         5
+Wilmington                      147        33
+Hanson                          146        15
+Marblehead                      146        29
+Leicester                       145        16
+Essex                           142         5
+North Grafton                   142        11
+Williamstown                    141        11
+Boxborough                      140         7
+Centerville                     140        19
+Brimfield                       138         5
+Forestdale                      136         6
+Rowley                          136         8
+Sagamore                        136         5
+Wrentham                        136        15
+Hopedale                        135         8
+Needham                         135        39
+Orleans                         135         8
+Newtonville                     134         7
+Uxbridge                        133        18
+Florida                         132         1
+Oak Bluffs                      132         6
+Scituate                        132        24
+West Roxbury                    131        40
+Ashby                           130         4
+Lanesborough                    129         4
+Rockport                        129         9
+Sterling                        128        10
+Warwick                         128         1
+Granville                       127         2
+Natick                          127        42
+Merrimac                        126         8
+Townsend                        123        11
+Colrain                         119         2
+Montgomery                      119         1
+West Newbury                    118         5
+Yarmouth Port                   118         6
+Clarksburg                      117         2
+North Dighton                   117         5
+Chilmark                        115         1
+Mattapoisett                    115         7
+Westport                        115        18
+Northbridge                     114        18
+Rutland                         112         9
+Rehoboth                        111        13
+Westford                        109        24
+Douglas                         106         9
+Southampton                     103         6
+Arlington                       102        44
+Sharon                          102        18
+Wenham                          102         5
+East Longmeadow                 101        16
+Sudbury                         101        18
+Swansea                         100        16
+Blackstone                       99         9
+Lenox                            99         5
+Somerset                         99        18
+Falmouth                         98        31
+Hinsdale                         98         2
+Onset                            96        21
+Westminster                      96         7
+East Bridgewater                 94        13
+Bernardston                      93         2
+Halifax                          93         7
+Lexington                        92        29
+North Easton                     92        12
+Upton                            92         7
+Acton                            91        20
+Wilbraham                        91        13
+Sutton                           89         8
+Reading                          88        22
+Acushnet                         87         9
+Princeton                        87         3
+Bourne                           86        17
+Medway                           86        11
+Georgetown                       85         7
+Hingham                          85        19
+Concord                          84        15
+Lee                              84         5
+Cherry Valley                    82         9
+Sagamore Beach                   82         3
+Blandford                        81         1
+East Freetown                    81         4
+Holliston                        81        11
+Southborough                     81         8
+Belmont                          80        20
+Groveland                        77         5
+Millers Falls                    77         1
+Rochester                        76         4
+South Weymouth                   76        41
+Barre                            74         4
+Lancaster                        74         6
+Plympton                         70         2
+Berlin                           69         2
+Mendon                           68         4
+Hardwick                         66         2
+Newton Upper Falls               65         4
+West Harwich                     65         8
+Carlisle                         61         3
+South Lancaster                  61         1
+Hatfield                         60         2
+Milton                           59        16
+Phillipston                      59         1
+West Newton                      59         8
+Hampden                          58         3
+Hadley                           57         3
+Harwich Port                     57         1
+Grafton                          56        10
+Winchester                       56        12
+South Barre                      55         3
+Auburndale                       54         5
+Dover                            53         3
+Sandwich                         53        11
+Waban                            51         4
+Wellesley Hills                  50        15
+Ashburnham                       49         3
+Templeton                        49         4
+Needham Heights                  48        14
+East Walpole                     47        12
+Norwell                          47         5
+Groton                           46         5
+Assonet                          45         4
+East Brookfield                  45         1
+Hubbardston                      45         2
+Stow                             45         3
+Middleton                        44         4
+Norfolk                          44         5
+Weston                           44         5
+Dennis                           42         6
+Paxton                           41         2
+Bolton                           40         2
+Williamsburg                     40         1
+Wellesley                        39        11
+Hamilton                         38         3
+Squantum                         38         1
+North Falmouth                   37         1
+West Tisbury                     36         1
+Montague                         35         3
+Monument Beach                   35         1
+Dartmouth                        32        11
+South Dartmouth                  32        11
+Berkley                          31         2
+Dunstable                        31         1
+Lincoln                          31         2
+Wayland                          30         4
+Dighton                          28         2
+Rochdale                         27         3
+Newton                           25        22
+Newton Highlands                 24        21
+Longmeadow                       19         3
+North Weymouth                   19        11
+Topsfield                        16         1
+Harvard                          15         1
+Newbury                          15         1
+Boxford                          12         1
+South Hamilton                   12         1
+Freetown                         11         1
+Manchaug                         11         1
+Easton                            8         2
+Barnstable                        6         3
+Newton Lower Falls                3         3
+(not given)                       0      1344
+Arlington Heights                 0         1
+Byfield                           0         2
+First Floor Lynn                  0         1
+Hanscom Afb                       0         1
+J                                 0        14
+North Egremont                    0         3
+North Pembroke                    0         1
+RB Springfield                    0         1
+Siasconset                        0         1
+South Attleboro                   0         1
+South Chatham                     0         1
+South Walpole                     0         1
+Whi                               0         1
+White Horse Beach                 0         1
+Woods Hole                        0         1
+span                              0        53
+Rate per 100,000 residents based on 2010 census. Municipalities do not appear if no evictions filed. Where neighborhoods are commonly recognized as municipalities, data appears under the neighborhood rather than the legal entity (e.g., "Roxbury" is separate from "Boston".) Where municipalities have alternate spellings (e.g., Marlboro for Marlborough), totals appear under the long form. Efforts are made to correct clerical errors in the court database, but clerical errors may appear. 
+
+
+
+            Rate per 100,000          
+County     Renter Households     Count
+Berkshire               6184       998
+Hampden                 6140      4365
+Plymouth                5107      2205
+Bristol                 4466      3674
+Worcester               4031      4487
+Essex                   3654      4017
+Barnstable              3460       668
+Franklin                3290       347
+Suffolk                 3144      6208
+Norfolk                 3129      2667
+Hampshire               2356       434
+Middlesex               2320      5414
+Dukes                    682        28
+Nantucket                455        16
+Rate per 100,000 renter households based on 2019 ACS. Counties appear even if no evictions filed.
+
+
+
+OUTCOMES
+
+Concluded cases are 'disposed'. Not all cases were disposed at time of reading.
+
+Cases are read approximately 18 months after filing.
+
+Court Record Reads       This Report Reads 
+Stipulation of Dismissal Dismissed         
+Voluntary Dismissal      Dismissed         
+Dismissal                Dismissed         
+Agreement for Judgment   Mediated          
+Agreement                Mediated          
+Judgment by Default      Defaulted         
+Findings                 Heard             
+Order                    Heard             
+Disposed                 Heard             
+(unrecognized)           Other             
+
+Dismissals: Stipulations of dismissal are not legally the same as voluntary dismissals, but both are treated here as scenarios in which either money has been paid or cause cured.
+
+Mediation: Agreements are not legally the same as agreements for judgment, but both are treated here as mediations in which a tenancy may be preserved; judgment or execution may enter thereafter, looked at separately. Tenancy preservation program is generally not visible, may influence either mediation or dismissal.
+
+Some disposed cases may have a judgment entered.
+
+Judgments may be for money only, money and possession, or possession only.
+
+Some judgments for possession may result in an execution.
+
+
+
+Dispositions
+
+              Count   Percentage
+Disposed      29725        80.4%
+Ongoing/Error  7231        19.6%
+
+Cases not yet disposed were either ongoing at time of reading or left open due to clerical error only.
+
+Note that agreements for judgment may not all be filed properly, and that mediations may be undercounted.
+
+By outcome, as a percent of disposed cases:
+
+          Count Percentage
+Mediated  14638      49.2%
+Defaulted  6742      22.7%
+Dismissed  6502      21.9%
+Heard      1596       5.4%
+Other       247       0.8%
+Total     29725     100.0%
+
+
+Outcome by reason:
+
+                Dismissed   Defaulted   Mediated   Heard   Other
+Cause                 562         651       1856     292     104
+Foreclosure           121         222        308     114       0
+No Fault              622         551       1808     263       5
+Non-payment          5196        5317      10664     772       8
+Unknown/Other           1           1          2     155     130
+
+
+Outcome by reason, as a percent of disposed cases:
+
+                Dismissed   Defaulted   Mediated   Heard   Other
+Cause                1.9%        2.2%       6.2%    1.0%    0.3%
+Foreclosure          0.4%        0.7%       1.0%    0.4%    0.0%
+No Fault             2.1%        1.9%       6.1%    0.9%    0.0%
+Non-payment         17.5%       17.9%      35.9%    2.6%    0.0%
+Unknown/Other        0.0%        0.0%       0.0%    0.5%    0.4%
+
+
+
+
+
+Judgments
+
+The financial obligation of one party to another, net of counterclaims.
+
+Judgments recorded for the plaintiff may be lower than total eviction costs (e.g., moving and storage often not included).
+
+Judgments may not be ordered paid if the debtor receives any form of public assistance. Otherwise, judgments are enforceable any time in the 20 years after issuance.
+
+Judgments of small amounts typically reflect court filing fees rather than rent arrears.
+
+Mediated agreements for judgment are judgments; otherwise mediated agreements are not recorded.
+
+                      Count   Percentage of Disposed   Percentage of Filed
+Judgment entered      14082                    47.4%                 38.1%
+No judgment entered   15643                    52.6%                 42.3%
+Total                 29725                   100.0%                 80.4%
+
+
+
+Judgments by reason, as a percent of disposed cases:
+
+                Count   Percentage   Min     Max   Average   Std Dev      Total
+Cause            1324         4.5%     0  71,358     1,767     3,944  2,339,895
+Foreclosure       315         1.1%     0 287,571     2,677    18,949    843,445
+No fault         1176         4.0%     0  39,617     2,236     3,770  2,630,092
+Non-payment     11204        37.7%     0 258,670     3,969     5,182 44,469,830
+Unknown/Other      63         0.2%     0  31,133     3,845     5,678    242,245
+All             14082        47.4%     0 287,571     3,587     5,726 50,525,508
+
+
+Judgments by outcome, as a percent of disposed cases:
+
+            Count   Percentage   Min     Max   Average   Std dev      Total
+Dismissed     172         0.6%   168  46,648     3,624     5,811    623,441
+Defaulted    6627        22.3%     0 258,670     3,115     5,220 20,648,855
+Mediated     6642        22.3%     0  80,977     3,924     4,696 26,069,046
+Heard         553         1.9%     0 287,571     5,081    14,875  2,810,080
+Other          88         0.3%     0  33,872     4,250     5,925    374,083
+All         14082        47.4%     0 287,571     3,587     5,726 50,525,508
+
+
+By prevailing party, as a percent of disposed cases:
+
+            Count   Percentage of Judgments   Percentage of Disposed   Percentage of Filed
+defendant       3                      0.0%                     0.0%                  0.0%
+plaintiff    1721                     12.2%                     5.8%                  4.7%
+unknown       401                      2.8%                     1.3%                  1.1%
+Total       14082                    100.0%                    47.4%                 38.1%
+
+
+Judgments All Cases:
+Count: 14082
+Range:  0.000 - 287571.230; Mean: 3587.950; Median: 2374.215; Stddev: 5726.967
+Percentiles:  90th: 7508.420; 95th: 10591.280; 99th: 23024.520
+   0.000 -    2.892:     1 |
+   2.892 -   45.998:     5 |
+  45.998 -  162.316:   119 #
+ 162.316 -  566.522:  2339 ####################
+ 566.522 - 1971.129:  3584 ##############################
+1971.129 - 6852.119:  6293 #####################################################
+6852.119 - 23813.483:  1573 #############
+23813.483 - 82753.964:   126 #
+82753.964 - 287571.230:     3 |
+
+
+Judgments By Reason
+Cause:
+Count: 1324
+Range:  0.000 - 71358.770; Mean: 1767.292; Median: 247.410; Stddev: 3946.001
+Percentiles:  90th: 4563.810; 95th: 6586.000; 99th: 18206.500
+   0.000 -   54.497:     1 |
+  54.497 -  121.952:     7 #
+ 121.952 -  271.396:   676 #####################################################
+ 271.396 -  602.484:    66 #####
+ 602.484 - 1335.997:   136 ###########
+1335.997 - 2961.069:   190 ###############
+2961.069 - 6561.355:   171 #############
+6561.355 - 14537.657:    50 ####
+14537.657 - 32208.862:    13 #
+32208.862 - 71358.770:     4 |
+
+
+Foreclosure:
+Count: 315
+Range:  0.000 - 287571.230; Mean: 2677.605; Median: 207.000; Stddev: 18979.943
+Percentiles:  90th: 1908.080; 95th: 7016.330; 99th: 29928.950
+   0.000 -    2.892:     1 |
+   2.892 -  162.316:    16 ###
+ 162.316 -  566.522:   257 #####################################################
+ 566.522 - 1971.129:     3 #
+1971.129 - 6852.119:    15 ###
+6852.119 - 23813.483:     7 #
+23813.483 - 82753.964:     7 #
+82753.964 - 287571.230:     2 |
+
+
+No Fault:
+Count: 1176
+Range:  0.000 - 39617.590; Mean: 2236.473; Median: 1181.720; Stddev: 3771.953
+Percentiles:  90th: 5007.200; 95th: 7742.400; 99th: 20039.480
+   0.000 -  153.168:    18 ##
+ 153.168 -  284.602:   399 #####################################################
+ 284.602 -  528.089:    37 #####
+ 528.089 -  979.158:    88 ############
+ 979.158 - 1814.781:   180 ########################
+1814.781 - 3362.803:   237 ###############################
+3362.803 - 6230.572:   129 #################
+6230.572 - 11543.224:    52 #######
+11543.224 - 21385.114:    19 ###
+21385.114 - 39617.590:    11 #
+
+
+Non-payment:
+Count: 11204
+Range:  0.000 - 258670.080; Mean: 3969.103; Median: 2752.155; Stddev: 5182.874
+Percentiles:  90th: 7960.720; 95th: 11033.080; 99th: 23049.500
+   0.000 -   64.276:     8 |
+  64.276 -  162.881:    32 |
+ 162.881 -  410.439:   665 ########
+ 410.439 - 1031.959:  1238 ################
+1031.959 - 2592.347:  3333 ##########################################
+2592.347 - 6509.856:  4215 #####################################################
+6509.856 - 16345.151:  1455 ##################
+16345.151 - 41037.641:   226 ###
+41037.641 - 103030.595:    23 |
+103030.595 - 258670.080:     1 |
+
+
+Unknown/Other reason:
+Count: 63
+Range:  0.000 - 31133.000; Mean: 3845.170; Median: 1964.840; Stddev: 5724.101
+Percentiles:  90th: 7476.960; 95th: 15526.080; 99th: 31133.000
+   0.000 -  323.665:     5 ####################
+ 323.665 -  538.058:     2 ########
+ 538.058 -  894.025:     5 ####################
+ 894.025 - 1485.057:     4 ################
+1485.057 - 2466.376:    13 #####################################################
+2466.376 - 4095.710:     8 #################################
+4095.710 - 6800.977:    10 #########################################
+6800.977 - 11292.669:     3 ############
+11292.669 - 18750.456:     2 ########
+18750.456 - 31133.000:     3 ############
+
+
+Judgments By Outcome
+Dismissed:
+Count: 172
+Range: 168.000 - 46648.400; Mean: 3624.661; Median: 2012.595; Stddev: 5828.343
+Percentiles:  90th: 7423.360; 95th: 10529.100; 99th: 46200.000
+ 168.000 -  295.471:    25 #####################################
+ 295.471 -  519.090:     4 ######
+ 519.090 -  911.377:    12 ##################
+ 911.377 - 1599.554:    31 ##############################################
+1599.554 - 2806.801:    33 #################################################
+2806.801 - 4924.636:    36 #####################################################
+4924.636 - 8639.886:    15 ######################
+8639.886 - 15157.429:    10 ###############
+15157.429 - 26590.946:     4 ######
+26590.946 - 46648.400:     2 ###
+
+
+Defaulted:
+Count: 6627
+Range:  0.000 - 258670.080; Mean: 3115.868; Median: 2017.080; Stddev: 5220.517
+Percentiles:  90th: 6634.470; 95th: 9231.190; 99th: 20479.360
+   0.000 -   96.768:     6 |
+  96.768 -  233.683:  1012 ##########################
+ 233.683 -  562.332:   406 ###########
+ 562.332 - 1351.221:  1043 ###########################
+1351.221 - 3244.870:  2042 #####################################################
+3244.870 - 7790.382:  1652 ###########################################
+7790.382 - 18701.421:   377 ##########
+18701.421 - 44892.264:    74 ##
+44892.264 - 107760.724:     8 |
+107760.724 - 258670.080:     1 |
+
+
+Mediated:
+Count: 6642
+Range:  0.000 - 80977.880; Mean: 3924.879; Median: 2715.050; Stddev: 4696.427
+Percentiles:  90th: 8056.150; 95th: 11267.960; 99th: 24147.490
+   0.000 -    2.429:     1 |
+   2.429 -   31.134:     2 |
+  31.134 -   97.374:    12 |
+  97.374 -  300.158:   645 #############
+ 300.158 -  920.956:   551 ###########
+ 920.956 - 2821.446:  2200 ############################################
+2821.446 - 8639.543:  2625 #####################################################
+8639.543 - 26450.871:   539 ###########
+26450.871 - 80977.880:    49 #
+
+
+Heard:
+Count: 553
+Range:  0.000 - 287571.230; Mean: 5081.521; Median: 2347.390; Stddev: 14889.008
+Percentiles:  90th: 11215.640; 95th: 18012.620; 99th: 27876.780
+   0.000 -   64.971:     1 |
+  64.971 -  166.389:     7 ##
+ 166.389 -  423.723:   124 ############################################
+ 423.723 - 1076.663:    31 ###########
+1076.663 - 2733.388:   129 #############################################
+2733.388 - 6937.051:   151 #####################################################
+6937.051 - 17603.142:    73 ##########################
+17603.142 - 44666.560:    26 #########
+44666.560 - 287571.230:     2 #
+
+
+Other Outcome:
+Count: 88
+Range:  0.000 - 33872.140; Mean: 4250.952; Median: 2491.100; Stddev: 5958.974
+Percentiles:  90th: 8808.590; 95th: 15526.080; 99th: 33872.140
+   0.000 -  404.501:     5 #############
+ 404.501 -  662.029:     7 ###################
+ 662.029 - 1083.109:     5 #############
+1083.109 - 1771.610:     6 ################
+1771.610 - 2897.368:    20 #####################################################
+2897.368 - 4738.079:    17 #############################################
+4738.079 - 7747.798:    13 ##################################
+7747.798 - 12668.944:     2 #####
+12668.944 - 20715.438:     4 ###########
+20715.438 - 33872.140:     3 ########
+
+
+
+
+
+Executions
+
+A levy of execution is a forced (court ordered) move-out, what is commonly meant by "eviction".
+
+If an execution is requested but not issued, the court has denied the landlord's request.
+
+If an execution is issued but not levied, the renters have left on their own.
+
+If an execution is levied, the renters and their belongings were removed per the move-and-store laws. Possession of the housing was returned to the owner.
+
+It is not possible to know from court records whether belongings were stored in a licensed and bonded warehouse (renter has not yet obtained new housing) or delivered per the renter's instructions (renter has obtained new housing).
+
+The landlord customarily pays for the cost of moving and storage.
+
+Executions are considered levied if a return of service appears in the record. Executions for possession only must be returned to the court even if not actually served. Executions for money may be kept (not returned) for attempts to collect.
+
+
+            Count   Percentage of Judgments   Percentage of Disposed   Percentage of Filed
+Requested   11899                     84.5%                    40.0%                 32.2%
+Issued       9986                     70.9%                    33.6%                 27.0%
+Levied       2252                     16.0%                     7.6%                  6.1%
+
+
+Levied by reason:
+
+                Count   Percentage of Levied   Percentage of Judgments   Percentage of Disposed   Percentage of Filed
+Cause             244                  10.8%                      1.7%                     0.8%                  0.7%
+Foreclosure       148                   6.6%                      1.1%                     0.5%                  0.4%
+No Fault          221                   9.8%                      1.6%                     0.7%                  0.6%
+Non-payment      1639                  72.8%                     11.6%                     5.5%                  4.4%
+Unknown/Other       0                   0.0%                      0.0%                     0.0%                  0.0%
+All Reasons      2252                 100.0%                     16.0%                     7.6%                  6.1%
+Read as X% of cases filed are levied for nonpayment, for example.
+
+
+
+Levied by outcome:
+
+               Count   Percentage of Levied   Percentage of Judgments   Percentage of Disposed   Percentage of Filed
+Dismissed         37                   1.6%                      0.3%                     0.1%                  0.1%
+Defaulted       1120                  49.7%                      8.0%                     3.8%                  3.0%
+Mediated         993                  44.1%                      7.1%                     3.3%                  2.7%
+Heard            102                   4.5%                      0.7%                     0.3%                  0.3%
+Other              0                   0.0%                      0.0%                     0.0%                  0.0%
+All Outcomes    2252                 100.0%                     16.0%                     7.6%                  6.1%
+Read as X% of cases filed are levied following default, for example.
+
+
+
+Conditional probabilities: 'Given a case is about X, what are the odds of a forced move-out?'
+
+                Levies   Filings   Percentage Chance
+Foreclosure        148       828               17.9%
+Non-payment       1639     22436                7.3%
+No Fault           221      3331                6.6%
+Cause              244      5798                4.2%
+Unknown/Other        0      4563                0.0%
+Percentage chance is not intended to be summed across reasons.
+
+
+
+Conditional probabilities: 'Given a case ends with X, what are the odds of a forced move-out?'
+
+            Levies   Filings   Percentage Chance
+Defaulted     1120      6742               16.6%
+Mediated       993     14638                6.8%
+Heard          102      1596                6.4%
+Dismissed       37      6502                0.6%
+Other            0       247                0.0%
+Percentage chance is not intended to be summed across outcomes. Causality cannot be inferred from this data (e.g., did mediation prevent a levy? or was mediation avoided because one party assumed a levy was inevitable?).
+
+
+
+
+
+
+Court Duration for Disposed Cases (days)
+
+Nothing leading up to the filing of the summary process case is considered. Nothing following the summary process case is considered. Excludes grace period, notice period, and entry delays. Excludes execution and appeal period, if any.
+
+Actual eviction duration will be at least 40 days longer than indicated for a 30 day notice to quit and 10 day appeal period.
+
+Zero may indicate either 0 or no data, see histogram below.
+
+
+(days)          Shortest   Longest   Average   Std Dev
+Cause                  0       569        41        73
+Non-payment            0       560        27        51
+No Fault               0       555        33        54
+Foreclosure            0       571        51        85
+Unknown/Other          0       585        39        78
+All Reasons            0       585        30        56
+
+
+(days)         Shortest   Longest   Average   Std Dev
+Dismissed             0       571        40        74
+Defaulted             0       480        20        29
+Mediated              0       569        26        45
+Heard                 0       563        66        97
+Other                 0       585        67       121
+All Outcomes          0       585        30        56
+
+
+All Cases:
+Count: 29725
+Range:  0.000 - 585.000; Mean: 30.611; Median: 16.000; Stddev: 56.777
+Percentiles:  90th: 45.000; 95th: 103.000; 99th: 323.000
+   0.000 -    2.530:   146 |
+   2.530 -    5.229:   299 #
+   5.229 -    9.992:  1460 #####
+   9.992 -   18.399: 16796 #####################################################
+  18.399 -   33.234:  6595 #####################
+  33.234 -   59.416:  2003 ######
+  59.416 -  105.620:   791 ##
+ 105.620 -  187.159:   480 ##
+ 187.159 -  331.056:   705 ##
+ 331.056 -  585.000:   279 #
+
+
+By Reason
+Cause:
+Count: 3465
+Range:  0.000 - 569.000; Mean: 41.524; Median: 18.000; Stddev: 73.959
+Percentiles:  90th: 81.000; 95th: 201.000; 99th: 421.000
+   0.000 -    2.520:    21 #
+   2.520 -    5.194:    39 #
+   5.194 -    9.901:   155 #####
+   9.901 -   18.185:  1596 #####################################################
+  18.185 -   32.764:   823 ###########################
+  32.764 -   58.421:   337 ###########
+  58.421 -  103.573:   179 ######
+ 103.573 -  183.037:   108 ####
+ 183.037 -  322.885:   113 ####
+ 322.885 -  569.000:    72 ##
+
+
+Non-payment:
+Count: 21957
+Range:  0.000 - 560.000; Mean: 27.695; Median: 15.000; Stddev: 51.753
+Percentiles:  90th: 37.000; 95th: 76.000; 99th: 294.000
+   0.000 -    2.514:    92 |
+   2.514 -    5.175:   215 #
+   5.175 -    9.850:  1116 ####
+   9.850 -   18.064: 13304 #####################################################
+  18.064 -   32.496:  4446 ##################
+  32.496 -   57.856:  1304 #####
+  57.856 -  102.415:   466 ##
+ 102.415 -  180.709:   242 #
+ 180.709 -  318.278:   472 ##
+ 318.278 -  560.000:   181 #
+
+
+No Fault:
+Count: 3249
+Range:  0.000 - 555.000; Mean: 33.027; Median: 18.000; Stddev: 54.651
+Percentiles:  90th: 53.000; 95th: 120.000; 99th: 297.000
+   0.000 -    2.511:    20 #
+   2.511 -    5.164:    28 #
+   5.164 -    9.820:   118 #####
+   9.820 -   17.995:  1374 #####################################################
+  17.995 -   32.347:  1050 #########################################
+  32.347 -   57.541:   337 #############
+  57.541 -  101.769:   123 #####
+ 101.769 -  179.412:    77 ###
+ 179.412 -  315.716:    75 ###
+ 315.716 -  555.000:    26 #
+
+
+Foreclosure:
+Count: 765
+Range:  0.000 - 571.000; Mean: 51.288; Median: 20.000; Stddev: 85.863
+Percentiles:  90th: 131.000; 95th: 236.000; 99th: 477.000
+   0.000 -    2.521:     4 #
+   2.521 -    5.199:     8 #
+   5.199 -    9.913:    10 ##
+   9.913 -   18.212:   293 #####################################################
+  18.212 -   32.823:   224 #########################################
+  32.823 -   58.546:    83 ###############
+  58.546 -  103.830:    49 #########
+ 103.830 -  183.554:    32 ######
+ 183.554 -  323.907:    37 #######
+ 323.907 -  571.000:    21 ####
+
+
+Unknown/Other reason:
+Count: 289
+Range:  0.000 - 585.000; Mean: 39.381; Median: 13.000; Stddev: 78.237
+Percentiles:  90th: 108.000; 95th: 150.000; 99th: 547.000
+   0.000 -    2.530:     9 #####
+   2.530 -    5.229:     9 #####
+   5.229 -    9.992:    61 ################################
+   9.992 -   18.399:   101 #####################################################
+  18.399 -   33.234:    38 ####################
+  33.234 -   59.416:    21 ###########
+  59.416 -  105.620:    15 ########
+ 105.620 -  187.159:    23 ############
+ 187.159 -  331.056:     1 #
+ 331.056 -  585.000:     6 ###
+
+
+By Outcome
+Dismissed:
+Count: 6502
+Range:  0.000 - 571.000; Mean: 40.164; Median: 15.000; Stddev: 74.499
+Percentiles:  90th: 87.000; 95th: 232.000; 99th: 393.000
+   0.000 -    2.521:    69 #
+   2.521 -    5.199:   174 ###
+   5.199 -    9.913:   538 #########
+   9.913 -   18.212:  3187 #####################################################
+  18.212 -   32.823:  1158 ###################
+  32.823 -   58.546:   474 ########
+  58.546 -  103.830:   244 ####
+ 103.830 -  183.554:   169 ###
+ 183.554 -  323.907:   319 #####
+ 323.907 -  571.000:   106 ##
+
+
+Defaulted:
+Count: 6742
+Range:  0.000 - 480.000; Mean: 20.447; Median: 15.000; Stddev: 29.919
+Percentiles:  90th: 28.000; 95th: 40.000; 99th: 132.000
+   0.000 -    2.461:    15 |
+   2.461 -    4.988:    29 |
+   4.988 -    9.360:   243 ###
+   9.360 -   16.926:  3764 #####################################################
+  16.926 -   30.016:  2120 ##############################
+  30.016 -   52.666:   348 #####
+  52.666 -   91.856:   115 ##
+  91.856 -  159.665:    38 #
+ 159.665 -  276.993:    23 |
+ 276.993 -  480.000:    36 #
+
+
+Mediated:
+Count: 14638
+Range:  0.000 - 569.000; Mean: 26.475; Median: 16.000; Stddev: 45.886
+Percentiles:  90th: 38.000; 95th: 63.000; 99th: 277.000
+   0.000 -    2.520:    35 |
+   2.520 -    5.194:    50 |
+   5.194 -    9.901:   541 ###
+   9.901 -   18.185:  8547 #####################################################
+  18.185 -   32.764:  3496 ######################
+  32.764 -   58.421:  1098 #######
+  58.421 -  103.573:   354 ##
+ 103.573 -  183.037:   133 #
+ 183.037 -  322.885:   214 #
+ 322.885 -  569.000:    95 #
+
+
+Heard:
+Count: 1596
+Range:  0.000 - 563.000; Mean: 66.854; Median: 23.000; Stddev: 97.922
+Percentiles:  90th: 204.000; 95th: 290.000; 99th: 469.000
+   0.000 -    2.516:    22 ###
+   2.516 -    5.181:    41 #####
+   5.181 -    9.867:   107 #############
+   9.867 -   18.104:   443 #####################################################
+  18.104 -   32.586:   339 #########################################
+  32.586 -   58.045:   202 ########################
+  58.045 -  102.802:   102 ############
+ 102.802 -  181.486:   133 ################
+ 181.486 -  319.815:   131 ################
+ 319.815 -  563.000:    56 #######
+
+
+Other Outcome:
+Count: 247
+Range:  0.000 - 585.000; Mean: 67.474; Median: 15.000; Stddev: 121.284
+Percentiles:  90th: 240.000; 95th: 395.000; 99th: 529.000
+   0.000 -    4.084:     8 #####
+   4.084 -    7.615:     8 #####
+   7.615 -   13.600:    90 #####################################################
+  13.600 -   23.742:    40 ########################
+  23.742 -   40.929:    29 #################
+  40.929 -   70.054:    22 #############
+  70.054 -  119.411:    13 ########
+ 119.411 -  203.053:     9 #####
+ 203.053 -  344.796:     9 #####
+ 344.796 -  585.000:    18 ###########
+
+
+--
+Data Sources (report errors to hello@masslandlords.net):
+
+
+County Data Households Percent Renters
+Barnstable      96,509           20.0%
+Berkshire       53,792           30.0%
+Bristol        220,528           37.3%
+Dukes           18,146           22.6%
+Essex          297,898           36.9%
+Franklin        30,927           34.1%
+Hampden        179,970           39.5%
+Hampshire       60,002           30.7%
+Middlesex      612,366           38.1%
+Nantucket       11,399           30.8%
+Norfolk        269,717           31.6%
+Plymouth       191,041           22.6%
+Suffolk        309,945           63.7%
+Worcester      316,162           35.2%
+
+County Households:
+2019 ACS TableID S1101
+
+County Households and Renters, Dukes and Nantucket:
+https://www.census.gov/quickfacts/dukescountymassachusetts
+
+County Households and Renters, Large Counties:
+https://data.census.gov/cedsci/table?q=S11&g=0400000US25.050000&d=ACS%201-Year%20Estimates%20Subject%20Tables&tid=ACSST1Y2019.S1101&hidePreview=true
+
+Dukes County Renters:
+https://www.census.gov/quickfacts/dukescountymassachusetts
+
+Nantucket County Renters:
+https://www.census.gov/quickfacts/nantucketcountymassachusetts
+
+--
+Methodology
+
+Publicly available records at MassCourts.org are read fully manually at two intervals:
+
+ 1.) For a filings report, once within approximately one week of filing;
+
+ 2.) For an outcomes report, once again approximately 12 to 18 months after filing.
+
+Cases are searched by 'case type' = 'summary process', party type = 'plaintiff' within date ranges, typically weekly.
+
+MassCourts.org displays matches, not cases. X plaintiffs on a single case result in X separate matches. Cases are manually de-duplicated. Where the number of matches exceeds the number displayed (e.g., 'Displaying 100 of 257 total matches.'), date ranges are reduced until all cases may be viewed. If the date range cannot be reduced (i.e., is one day) but matches still exceed the display limit of 100, then two additional passes are taken. First, municipalities are filtered in stages. Second, to capture cases with no municipality entered, the search switches from 'case type' to 'case number', guessing the missing numbers assuming serialized entry. This method results in 'matches' reconciled to case counts.
+
+This effort costs more than 1 FTE. Summary spreadsheets are produced by copying exactly what is read.
+
+The spreadsheets are processed using proprietary software. Repeated analyses of local spreadsheets does not burden the MassCourts servers.
+
+The software is developed using best practices for revision control and regression testing.
+
+Limitations:
+
+Data are snapshots. As such, we cannot track individual cases over time or produce real-time reports.
+
+MassLandlords does not have access to court databases beyond what is published in human readable form at MassCourts.org.
+
+As of this report, MassLandlords staff were not considering information available to attorneys (e.g., the contents of notices, discovery, evidence, etc.) but not available to the general public. All data presented here are readily verifiable at MassCourts.org without special permission.
+
+Information is not independently verified outside of the court record. For instance, clerical errors in address, omissions of a defendant, etc. are not readily verifiable.
+
+As this process matures, reporting algorithms may change.
+
+Transfers are counted as new cases. Clerical differences between original case and transfer (e.g., middle initial included then dropped; defendant dropped on transfer; street address spelling changed) as well as the potential for indefinite circular transferring (e.g., foreclosure cases moving between housing, land, and/or superior courts) make it very difficult to programmatically identify continuing matters.
+
+
+
+--
+
+When Citing This Work, Please Credit:
+
+MassLandlords, Inc. Available online at https://masslandlords.net/policy/eviction-data/.
+
