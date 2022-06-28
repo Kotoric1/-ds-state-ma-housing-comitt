@@ -1,0 +1,673 @@
+
+Residential summary process: Filings Report
+
+This report examines cases filed recently before reading, for which outcomes were largely unknown.
+
+Earliest Case:   2020-10-19
+Latest Case:     2021-10-22
+Total Cases:          24675
+Total Transfers:        624
+
+--
+High-level take-aways:
+Percentage of landlords for whom attorney is optional: 34.1%
+Of those, percentage pro se:                           52.7%
+
+Most common cause:                           Non-payment
+Least stable municipality/neighborhood: West Hyannisport
+Least stable with 10+ filings:                Fall River
+Least stable with 100+ filings:               Fall River
+Least stable county:                             Bristol
+--
+
+Courts
+(n)                           Count   Percent
+northeast                      4559     18.5%
+central                        4305     17.4%
+western                        3723     15.1%
+southeast                      3599     14.6%
+eastern                        3022     12.2%
+metro_south                    2240      9.1%
+quincy district                 296      1.2%
+lynn district                   204      0.8%
+fall river district             180      0.7%
+malden district                 176      0.7%
+pittsfield district             175      0.7%
+chelsea district                146      0.6%
+somerville district             126      0.5%
+cambridge district              123      0.5%
+northern berkshire district     113      0.5%
+barnstable district             102      0.4%
+waltham district                 99      0.4%
+lowell district                  94      0.4%
+woburn district                  85      0.3%
+framingham district              84      0.3%
+bmc east boston                  70      0.3%
+brockton district                69      0.3%
+orleans district                 67      0.3%
+fallmouth district               66      0.3%
+haverhill district               59      0.2%
+bmc west roxbury                 56      0.2%
+attleboro district               55      0.2%
+peabody district                 51      0.2%
+lawrence district                48      0.2%
+dedham district                  43      0.2%
+springfield district             40      0.2%
+ayer district                    37      0.1%
+newburyport district             34      0.1%
+taunton district                 32      0.1%
+wrentham district                32      0.1%
+plymouth district                31      0.1%
+salem district                   30      0.1%
+new bedford district             29      0.1%
+palmer district                  28      0.1%
+wareham district                 24      0.1%
+milford district                 22      0.1%
+nantucket district               22      0.1%
+stoughton district               22      0.1%
+westfield district               22      0.1%
+newton district                  20      0.1%
+hingham district                 19      0.1%
+bmc brighton                     17      0.1%
+southern berkshire district      17      0.1%
+concord district                 14      0.1%
+bmc south boston                 13      0.1%
+eastern hampshire district       11      0.0%
+edgartown district               11      0.0%
+chicopee district                10      0.0%
+clinton district                 10      0.0%
+bmc roxbury                       9      0.0%
+gloucester district               9      0.0%
+holyoke district                  9      0.0%
+orange district                   9      0.0%
+uxbridge district                 9      0.0%
+worcester district                9      0.0%
+bmc central                       6      0.0%
+brookline district                6      0.0%
+northampton district              6      0.0%
+leominster district               4      0.0%
+natick district                   4      0.0%
+bmc charlestown                   3      0.0%
+greenfield district               3      0.0%
+bmc dorchester                    2      0.0%
+marlborough district              2      0.0%
+westborough district              2      0.0%
+ipswich district                  1      0.0%
+
+
+Party Type
+(n)                Plaintiffs   Defendants
+Corporate Entity        16266          130
+Natural Person           8409        24545
+Total                   24675        24675
+
+
+(%)                Plaintiffs   Defendants
+Corporate Entity        65.9%         0.5%
+Natural Person          34.1%        99.5%
+Total                  100.0%       100.0%
+
+
+Plaintiff Representation
+(n)        Has Attorney   Pro Se   Total
+Required          15721      545   16266
+Optional           3977     4432    8409
+Total             19698     4977   24675
+
+
+(%)        Has Attorney   Pro Se   Total
+Required          63.7%     2.2%   65.9%
+Optional          16.1%    18.0%   34.1%
+Total             79.8%    20.2%  100.0%
+
+
+Defendant Representation
+Important: Defendants will not have an attorney known to the plaintiff at time of filing unless this is an ongoing matter. 100% pro se is to be expected in all filing reports except to the extent time passes between filing and staff review. See outcomes report for final assessment.
+
+(n)        Has Attorney   Pro Se   Total
+Required              9      121     130
+Optional            483    24062   24545
+Total               492    24183   24675
+
+
+(%)        Has Attorney   Pro Se   Total
+Required           0.0%     0.5%    0.5%
+Optional           2.0%    97.5%   99.5%
+Total              2.0%    98.0%  100.0%
+
+
+Number of Adults in Households   Count   Percent
+ 0                                1643      6.7%
+ 1                               17115     69.4%
+ 2                                4782     19.4%
+ 3                                 778      3.2%
+ 4                                 240      1.0%
+ 5                                  77      0.3%
+ 6                                  24      0.1%
+ 7                                   4      0.0%
+ 8                                   4      0.0%
+ 9                                   4      0.0%
+10                                   1      0.0%
+11                                   1      0.0%
+12                                   1      0.0%
+13                                   1      0.0%
+Total                            24675    100.0%
+Note: Households may appear with zero adults due to clerical delay entering known defendants, identity protection obscuring known defendants (e.g., 42 USC Sections 13701 through 1404 Violence Against Women Act), or no adult defendants (e.g., abandonment of minors).
+
+
+
+Initiating Action   Count   Percent
+Non-payment         15796     64.0%
+Cause                3850     15.6%
+No Fault             3420     13.9%
+Unknown/Other        1430      5.8%
+Foreclosure           179      0.7%
+
+
+                   Rate per 100,000          
+Municipality              Residents     Count
+West Hyannisport               2777         5
+Woronoco                       1801         2
+Fall River                     1237      1100
+Wendell Depot                  1111         1
+New Bedford                    1027       977
+East Falmouth                  1003        58
+Gilbertville                    955        11
+Worcester                       874      1584
+Fitchburg                       865       349
+North Adams                     758       104
+Framingham                      747       511
+Gardner                         726       147
+Marlborough                     711       274
+Southbridge                     699       117
+Dennis Port                     695        22
+Athol                           681        79
+Hyannis                         660        93
+Chestnut Hill                   659        14
+Hyde Park                       613       205
+West Yarmouth                   607        32
+Randolph                        597       192
+Baldwinville                    580        11
+Brockton                        563       529
+Norwood                         559       160
+Webster                         542        91
+Lawrence                        534       408
+Chelsea                         528       186
+Lowell                          502       535
+Buzzards Bay                    495        17
+Pittsfield                      476       213
+Dorchester                      475       437
+Provincetown                    475        14
+Revere                          459       238
+Adams                           447        38
+Taunton                         440       246
+Hardwick                        434        13
+Thorndike                       433         3
+Ayer                            430        32
+Milford                         428       120
+Rockland                        423        74
+Florence                        421         4
+Whitinsville                    403        28
+East Sandwich                   402        14
+Haverhill                       395       241
+Leominster                      390       159
+Lunenburg                       386        39
+Quincy                          381       352
+Lynn                            374       338
+Middleborough                   372        86
+West Dennis                     367         8
+Mashpee                         356        50
+Oxford                          350        48
+Harwich Port                    345         6
+South Yarmouth                  344        40
+Springfield                     342       524
+Stoughton                       341        92
+Braintree                       335       120
+Clinton                         330        45
+Westborough                     328        60
+Vineyard Haven                  317         6
+Orange                          306        24
+South Easton                    303        31
+Everett                         302       126
+Winchendon                      300        31
+Mattapan                        298       109
+South Dennis                    298        11
+Indian Orchard                  297        30
+Malden                          289       172
+Mansfield                       284        66
+Eastham                         282        14
+Newton Center                   282        11
+Hull                            281        29
+Roslindale                      280        81
+Allston                         274        80
+Bridgewater                     274        73
+Winthrop                        274        48
+Marstons Mills                  267        13
+East Boston                     266       108
+Housatonic                      265         2
+Salisbury                       265        22
+Attleborough                    261       114
+Foxborough                      260        44
+North Falmouth                  259         7
+Yarmouth Port                   257        13
+Rowe                            254         1
+Ware                            253        25
+Holyoke                         248        99
+Dorchester Center               246       227
+Amesbury                        245        40
+Jamaica Plain                   245        92
+Nantucket                       245        25
+Spencer                         239        28
+Abington                        237        38
+Whitman                         234        34
+Avon                            229        10
+West Stockbridge                229         3
+Lanesborough                    226         7
+Salem                           217        90
+Raynham                         216        29
+Chicopee                        215       119
+Bondsville                      213         4
+Canton                          213        46
+Holbrook                        213        23
+Somerville                      212       161
+Millbury                        211        28
+Northborough                    211        30
+Marshfield                      210        53
+Carver                          208        24
+Plymouth                        207       117
+Methuen                         205        97
+Forestdale                      204         9
+Three Rivers                    204         6
+East Taunton                    203        13
+North Andover                   201        57
+South Grafton                   201         9
+Roxbury                         197       118
+Wareham                         197        43
+Bellingham                      195        32
+Turners Falls                   195         8
+Norton                          194        37
+Warren                          194        10
+Sagamore Beach                  193         7
+Ashland                         192        32
+Blackstone                      188        17
+East Wareham                    187        41
+Brighton                        186        82
+West Wareham                    184         4
+Plainville                      181        15
+Townsend                        179        16
+North Attleborough              177        51
+North Oxford                    176         4
+West Warren                     176         2
+Cambridge                       173       182
+Franklin                        173        55
+Pocasset                        172         5
+Westwood                        171        25
+Fairhaven                       170        27
+North Brookfield                170         8
+Woburn                          170        65
+Lakeville                       169        18
+North Billerica                 168        18
+Seekonk                         167        23
+Westport                        167        26
+Dudley                          166        19
+Shirley                         166        12
+West Springfield                165        47
+Uxbridge                        163        22
+Fiskdale                        161         5
+Halifax                         159        12
+Hanover                         158        22
+Medford                         158        89
+Royalston                       158         2
+Hudson                          157        30
+Shrewsbury                      157        56
+Millers Falls                   155         2
+Peabody                         154        79
+Stockbridge                     154         3
+Tewksbury                       151        44
+Saugus                          150        40
+Centerville                     148        20
+Greenfield                      148        26
+Mattapoisett                    148         9
+Andover                         147        49
+Brookfield                      147         5
+Pepperell                       147        17
+Chatham                         146         9
+Savoy                           144         1
+Weymouth                        143        77
+Jefferson                       142         5
+Marion                          142         7
+Dedham                          141        35
+Sudbury                         141        25
+Great Barrington                140        10
+Berlin                          139         4
+Millis                          139        11
+Boylston                        137         6
+Huntington                      137         3
+Hingham                         135        30
+Richmond                        135         2
+Newtonville                     134         7
+Cohasset                        132        10
+Swampscott                      130        18
+East Weymouth                   128        69
+Warwick                         128         1
+Beverly                         126        50
+Waltham                         126        77
+Tyngsborough                    123        14
+Edgartown                       122         5
+Sheffield                       122         4
+Danvers                         120        32
+Hopkinton                       120        18
+Westfield                       119        49
+Kingston                        118        15
+Orleans                         118         7
+Peru                            118         1
+Wrentham                        118        13
+Auburn                          117        19
+West Boylston                   117         9
+Medfield                        116        14
+North Easton                    115        15
+Rockport                        115         8
+West Roxbury                    114        35
+Charlestown                     113        19
+Russell                         112         2
+Shutesbury                      112         2
+Barre                           111         6
+Feeding Hills                   111        13
+Oak Bluffs                      110         5
+Belchertown                     109        16
+Walpole                         108        26
+West Brookfield                 108         4
+Charlton                        107        14
+Stoneham                        107        23
+Swansea                         107        17
+Belmont                         105        26
+Easthampton                     105        17
+Oakham                          105         2
+Monterey                        104         1
+Bolton                          102         5
+Brewster                        101        10
+East Bridgewater                101        14
+Hopedale                        101         6
+Northbridge                     101        16
+Boxborough                      100         5
+Lancaster                        99         8
+Natick                           99        33
+Somerset                         99        18
+Dighton                          98         7
+Hinsdale                         98         2
+Maynard                          98        10
+Ashby                            97         3
+Newburyport                      97        17
+Needham                          96        28
+Goshen                           94         1
+West Townsend                    94         2
+North Dartmouth                  93        22
+Cherry Valley                    91        10
+Bedford                          90        12
+North Grafton                    90         7
+Dalton                           88         6
+E. Boston                        88        36
+Falmouth                         88        28
+Wakefield                        88        22
+Princeton                        87         3
+Arlington                        86        37
+Medway                           86        11
+Southampton                      86         5
+Mendon                           85         5
+Osterville                       85         3
+Sharon                           85        15
+South Hadley                     85        15
+Pembroke                         84        15
+Ashburnham                       82         5
+Leicester                        82         9
+Newton Upper Falls               82         5
+Burlington                       81        20
+East Freetown                    81         4
+Harwich                          81        10
+Sagamore                         81         3
+Charlemont                       78         1
+Hanson                           78         8
+West Chatham                     78         1
+Acton                            77        17
+East Dennis                      77         2
+Williamstown                     77         6
+Chelmsford                       76        26
+Hadley                           76         4
+Watertown                        75        24
+Milton                           74        20
+Georgetown                       73         6
+Sandwich                         72        15
+Sherborn                         72         3
+Wellfleet                        72         2
+West Bridgewater                 72         5
+Westford                         72        16
+Brookline                        71        42
+Dracut                           71        21
+South Boston                     71        24
+Douglas                          70         6
+Marblehead                       70        14
+Plympton                         70         2
+West Barnstable                  70         2
+Billerica                        69        28
+Westminster                      68         5
+Duxbury                          66        10
+Holliston                        66         9
+Upton                            66         5
+Whately                          66         1
+Bourne                           65        13
+North Chelmsford                 65         6
+Northfield                       65         2
+Palmer                           65         8
+Sturbridge                       64         6
+South Weymouth                   63        34
+Gloucester                       62        18
+Millville                        62         2
+Cheshire                         61         2
+Groveland                        61         4
+South Lancaster                  61         1
+Boston                           60       375
+Cotuit                           60         2
+Hatfield                         60         2
+Ipswich                          60         8
+Rehoboth                         60         7
+Phillipston                      59         1
+Clarksburg                       58         1
+Nahant                           58         2
+Teaticket                        58         1
+Ashfield                         57         1
+Norwell                          57         6
+Shelburne Falls                  56         1
+Sutton                           55         5
+Wales                            54         1
+Roxbury Crossing                 53        32
+Southborough                     51         5
+Lee                              50         3
+Rutland                          50         4
+North Truro                      49         1
+Scituate                         49         9
+Wilmington                       49        11
+Reading                          48        12
+South Deerfield                  48         1
+Lincoln                          47         3
+Ludlow                           47        10
+Berkley                          46         3
+Wayland                          46         6
+Assonet                          45         4
+East Brookfield                  45         1
+Hubbardston                      45         2
+Northampton                      45        13
+Onset                            45        10
+Amherst                          44        17
+Bradford                         44         6
+Melrose                          44        12
+Middleton                        44         4
+Auburndale                       43         4
+Dennis                           42         6
+Paxton                           41         2
+Holden                           40         7
+Williamsburg                     40         1
+Lenox                            39         2
+Acushnet                         38         4
+Templeton                        37         3
+West Tisbury                     36         1
+Dover                            35         2
+Monson                           35         3
+Monument Beach                   35         1
+South Dartmouth                  35        12
+Wilbraham                        35         5
+Rowley                           34         2
+Concord                          33         6
+Grafton                          33         6
+Littleton                        33         3
+North Reading                    33         5
+Granby                           32         2
+Wellesley                        32         9
+Dunstable                        31         1
+East Longmeadow                  31         5
+Merrimac                         31         2
+Needham Heights                  31         9
+Stow                             30         2
+Dartmouth                        29        10
+Agawam                           28         8
+Groton                           28         3
+Lexington                        28         9
+Brimfield                        27         1
+Rochdale                         27         3
+Sunderland                       27         1
+Newton Centre                    26         1
+Boxford                          25         2
+West Harwich                     24         3
+North Dighton                    23         1
+West Newbury                     23         1
+West Newton                      22         3
+Longmeadow                       19         3
+Manchester                       19         1
+Rochester                        19         1
+South Barre                      18         1
+Lynnfield                        17         2
+Norfolk                          17         2
+Topsfield                        16         1
+East Walpole                     15         4
+Harvard                          15         1
+Newton                           14        12
+North Uxbridge                   14         2
+Winchester                       14         3
+South Hamilton                   12         1
+Waban                            12         1
+Barnstable                       11         5
+Manchaug                         11         1
+Montague                         11         1
+Fayville                         10         1
+Southwick                        10         1
+Easton                            8         2
+Newton Highlands                  8         7
+North Weymouth                    8         5
+Weston                            8         1
+Wellesley Hills                   6         2
+E. Weymouth                       1         1
+Manomet                           1         1
+(not given)                       0      6130
+East Templeton                    0         2
+West Groton                       0         1
+Woods Hole                        0         1
+span                              0        31
+Rate per 100,000 residents based on 2010 census. Municipalities do not appear if no evictions filed. Where neighborhoods are commonly recognized as municipalities, data appears under the neighborhood rather than the legal entity (e.g., "Roxbury" is separate from "Boston".) Where municipalities have alternate spellings (e.g., Marlboro for Marlborough), totals appear under the long form. Efforts are made to correct clerical errors in the court database, but clerical errors may appear. 
+
+
+
+            Rate per 100,000          
+County     Renter Households     Count
+Bristol                 3484      2866
+Plymouth                3101      1339
+Worcester               3046      3390
+Barnstable              3015       582
+Berkshire               2546       411
+Norfolk                 1906      1625
+Essex                   1510      1660
+Hampden                 1326       943
+Suffolk                 1282      2532
+Middlesex               1251      2921
+Nantucket                712        25
+Franklin                 701        74
+Hampshire                678       125
+Dukes                    414        17
+Rate per 100,000 renter households based on 2019 ACS. Counties appear even if no evictions filed.
+
+
+
+--
+Data Sources (report errors to hello@masslandlords.net):
+
+
+County Data Households Percent Renters
+Barnstable      96,509           20.0%
+Berkshire       53,792           30.0%
+Bristol        220,528           37.3%
+Dukes           18,146           22.6%
+Essex          297,898           36.9%
+Franklin        30,927           34.1%
+Hampden        179,970           39.5%
+Hampshire       60,002           30.7%
+Middlesex      612,366           38.1%
+Nantucket       11,399           30.8%
+Norfolk        269,717           31.6%
+Plymouth       191,041           22.6%
+Suffolk        309,945           63.7%
+Worcester      316,162           35.2%
+
+County Households:
+2019 ACS TableID S1101
+
+County Households and Renters, Dukes and Nantucket:
+https://www.census.gov/quickfacts/dukescountymassachusetts
+
+County Households and Renters, Large Counties:
+https://data.census.gov/cedsci/table?q=S11&g=0400000US25.050000&d=ACS%201-Year%20Estimates%20Subject%20Tables&tid=ACSST1Y2019.S1101&hidePreview=true
+
+Dukes County Renters:
+https://www.census.gov/quickfacts/dukescountymassachusetts
+
+Nantucket County Renters:
+https://www.census.gov/quickfacts/nantucketcountymassachusetts
+
+--
+Methodology
+
+Publicly available records at MassCourts.org are read fully manually at two intervals:
+
+ 1.) For a filings report, once within approximately one week of filing;
+
+ 2.) For an outcomes report, once again approximately 12 to 18 months after filing.
+
+Cases are searched by 'case type' = 'summary process', party type = 'plaintiff' within date ranges, typically weekly.
+
+MassCourts.org displays matches, not cases. X plaintiffs on a single case result in X separate matches. Cases are manually de-duplicated. Where the number of matches exceeds the number displayed (e.g., 'Displaying 100 of 257 total matches.'), date ranges are reduced until all cases may be viewed. If the date range cannot be reduced (i.e., is one day) but matches still exceed the display limit of 100, then two additional passes are taken. First, municipalities are filtered in stages. Second, to capture cases with no municipality entered, the search switches from 'case type' to 'case number', guessing the missing numbers assuming serialized entry. This method results in 'matches' reconciled to case counts.
+
+This effort costs more than 1 FTE. Summary spreadsheets are produced by copying exactly what is read.
+
+The spreadsheets are processed using proprietary software. Repeated analyses of local spreadsheets does not burden the MassCourts servers.
+
+The software is developed using best practices for revision control and regression testing.
+
+Limitations:
+
+Data are snapshots. As such, we cannot track individual cases over time or produce real-time reports.
+
+MassLandlords does not have access to court databases beyond what is published in human readable form at MassCourts.org.
+
+As of this report, MassLandlords staff were not considering information available to attorneys (e.g., the contents of notices, discovery, evidence, etc.) but not available to the general public. All data presented here are readily verifiable at MassCourts.org without special permission.
+
+Information is not independently verified outside of the court record. For instance, clerical errors in address, omissions of a defendant, etc. are not readily verifiable.
+
+As this process matures, reporting algorithms may change.
+
+Transfers are counted as new cases. Clerical differences between original case and transfer (e.g., middle initial included then dropped; defendant dropped on transfer; street address spelling changed) as well as the potential for indefinite circular transferring (e.g., foreclosure cases moving between housing, land, and/or superior courts) make it very difficult to programmatically identify continuing matters.
+
+
+
+--
+
+When Citing This Work, Please Credit:
+
+MassLandlords, Inc. Available online at https://masslandlords.net/policy/eviction-data/.
+
